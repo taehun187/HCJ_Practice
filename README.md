@@ -1,1 +1,1 @@
-# HTML_Practice
+# HTML, CSS, Javascript 연습
